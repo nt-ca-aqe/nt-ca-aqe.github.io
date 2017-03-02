@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: Agile Quality Engineering
+description: Simple, Not Easy
+
+show_downloads: false
+# google_analytics: [tracking Id]
